@@ -1,3 +1,4 @@
+![Image](some-thing.html)
 # Title
 
 [link1](https://something.com)
